@@ -1,0 +1,22 @@
+header {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    min-height: 75vh;
+}
+
+footer {
+    height: 10vh;
+    text-align: center;
+    align-items: center;
+}
+
+#btnNuevo {
+    position: fixed;
+    bottom: 1.2rem;
+    right: 1.2rem;
+}
